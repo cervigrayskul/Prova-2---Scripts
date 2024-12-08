@@ -1,43 +1,38 @@
 # Prova-2---Scripts
 
-Loja e Companhia - Vue.js
+# Loja e Companhia - Vue.js
 Loja e Companhia é uma aplicação de loja online desenvolvida com Vue.js para gerenciar produtos, visualizar métricas e interagir com um carrinho de compras. O projeto utiliza o Vue Router para navegação, o Vuex para gerenciamento de estado, e o Bootstrap para um design responsivo e moderno.
 
-Tecnologias Utilizadas
-Vue.js: Framework JavaScript progressivo para a construção de interfaces de usuário. Facilita o desenvolvimento de SPA (Single Page Applications) com componentes reativos.
+# Tecnologias Utilizadas
 
-Vue Router: Biblioteca para gerenciamento de rotas no Vue.js, permitindo navegação entre páginas sem recarregar a página inteira.
+- Vue.js
+- Vue Router
+- Vuex
+- Bootstrap 
+- Node.js
 
-Vuex: Sistema de gerenciamento de estado para o Vue.js. Utilizado para gerenciar o estado da aplicação de maneira centralizada.
+# Descrição do Sistema
+A aplicação Loja e Companhia é um sistema de e-commerce simples, mas funcional, que permite aos usuários navegar entre produtos, visualizar métricas, adicionar itens ao carrinho e interagir com um painel de usuários.
 
-Bootstrap 5: Framework CSS para criação de layouts responsivos e modernos. Usado para criar uma interface de usuário limpa e funcional.
-
-Node.js: Ambiente de execução JavaScript no lado do servidor. Usado para rodar o servidor de desenvolvimento e gerenciar as dependências do projeto.
-
-npm (Node Package Manager): Gerenciador de pacotes para JavaScript, utilizado para instalar as dependências do projeto.
-
-Descrição do Sistema
-A aplicação Loja e Companhia é um sistema de e-commerce simples, mas funcional, que permite aos usuários navegar entre produtos, visualizar métricas, adicionar itens ao carrinho e interagir com um painel de usuários. Abaixo estão algumas das funcionalidades chave:
-
-Funcionalidades:
-Métricas:
-
+# Funcionalidades:
+# Métricas:
 Exibe dados analíticos sobre o total de produtos e categorias da loja.
-Produtos:
 
+# Produtos:
 Exibe uma lista de produtos, permitindo ao usuário visualizar os detalhes de cada item, como nome, preço e descrição.
 Cada produto pode ser adicionado ao carrinho de compras ou favoritado.
-Carrinho de Compras:
 
+# Carrinho de Compras:
 Permite ao usuário visualizar e modificar os itens adicionados ao carrinho.
 Calcula o preço total da compra.
-Usuários:
 
+# Usuários:
 Gerencia a lista de usuários registrados, exibindo informações como nome e e-mail.
-Login:
 
+# Login:
 Página para que os usuários possam fazer login e acessar funcionalidades exclusivas.
-Como Baixar o Código e Iniciar o Projeto
+
+# Como Baixar o Código e Iniciar o Projeto
 1. Baixar o código do GitHub
 Primeiro, você precisa clonar o repositório do projeto para a sua máquina local. Para isso, siga os seguintes passos:
 
