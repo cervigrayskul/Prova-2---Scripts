@@ -37,8 +37,6 @@ Página para que os usuários possam fazer login e acessar funcionalidades exclu
 1. Baixar o código do GitHub
 Primeiro, você precisa clonar o repositório do projeto para a sua máquina local. Para isso, siga os seguintes passos:
 
-Clone o repositório
-
 Abra o terminal e execute o comando abaixo para clonar o repositório:
 
 ```https://github.com/cervigrayskul/Prova-2---Scripts```
